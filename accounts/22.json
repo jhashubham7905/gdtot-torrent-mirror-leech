@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cobra-movies-torrent-2022",
+  "private_key_id": "3e12d1f755b79f02175796f059d715ae2bdbbe73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZ3+O5Xyd8uUeB\nO4AZmMLvJyrW2jHjkknlaR5JImHxXEs3kANP9AN4Zvjz8VGxB2N6QBc+HTUydM2Q\napOkMvT743fY/BGUiEWifKkZiyptKKzQWLR1KQW98sxTzFd7pXSA5PhMN5ZuP+cv\n15V94AivJb1ZjK5zAPazTw0JxIKpdwYlBtMkKtPN5SWGF52Ahqz49v1lNJmfkMUe\nDK02Nfr1eTDtyz6dSaNSo/LXR6lpgm8ooTJ+OChEKar0F6MP+tKOmhZJloRCQfzu\nh31YaxtXfc39wFml81PqsYxoFTX9VxYGPhRnxV8t3lpUOEhcN4wc66ongihGbsyn\ngggmlhoXAgMBAAECggEAZIE7c4/Jj2eI7Lyd4zDs+5V91Y7h5LDfFczgA6ywsb55\nlDAC1ychUrFttlpj7N4TrZlTH3wpxhTLnwsLAHvhNzE/YAEnuvUB6mrHNtlTwPc6\ngQHqfQFnfLA8QYvJ72frzmnRgJdD9afU5eT1ORPX7bPjHSQgdTzEkQKuaQsVm0ZK\nhaV4WzLdGt/ndtxxD1xdstGqiPuhS7F1j46TGRTYmPgpZo6oENiycvZcf/8AnCDf\nVFyJJ+kv9axX54JQGHYuXxr2+cX4KL43lwbqknLqoYPmKnCfaR2pWjn1mlCHbo+W\nrxSmu2AuOHDKLZrNA+HdPTRP3Wv5qNwDQN9D3UYIwQKBgQD481RlED0MOR7by7ut\nWVmOu94BktkUj/L0MQE75O5yVYoZzS2Si6nRnNPxmP4L0sXCYHs6m7OGrof8iYK9\nUHdNtN+vbTzAxUbRprNl4pPWJ06YOiy6PSvw+JnYPTEdnu8v6kpVofpYsKDtG28X\n5U1WZqF+E1JMc7AaeCLnWn9KVQKBgQDgC0lyEaqCKfgx00FiMx7qwtPF4EKjjQ2D\na2rv/9pixmfJtU+TjNeLKLKKkmT6gWKu58BgCRyUUQoX7U5yw90nDLolpu1tMd49\ndX/xCeFSKEVdVv7Gr3WZnXQsk/nTahDfafatOh3ce8ILe4nCh3Qf6CKinTK2L153\naSKGpNmWuwKBgQDxQC1q+v+OFtS2v4qShOHrFlggQkSoTo9s4QiHGGWS2x5HvrQJ\nLdtVzJr/p/mZT5phscn5k+W4AO67Zi8ScyYKYdvbTwru7L6icN+tPpNxlwntL4Mk\nwB8TGHdOPI6aW+kDEBMVRTEsPY7V+B4ClC4MKs0ZNnQsrnfcTsvUU7jDOQKBgQCE\n6G0zjCNYgElKVYZuGOF4Zwd2VWly2JRxp+GSandFLWoYkMSaRW0Akq4H4nyg1uyR\n0c2fqwgXPFP+ibqF/odNSRGMkJA8vN6YGwJBHZlbQaSUkK0ndKMQ9AUdBNOphTxp\nLNU3QkjAqXIdmbXJfs12uCED0rlotoUV1Xqz4UtrTQKBgBPMJxJ8Samk694Xxc2M\nWXjKreonZkl0SY2pVVk4/ky+sYx+IHeOWD3eotxmc1GXc++juV+UyPXWYb1dJ3yQ\nYldSFqrfdaPSFsb8bF8VbGtDNXoGNqQ+atCVoUn96voGl0F7Pv3YTkB6+h+MzBMz\nVJLGLgBhiOAgaSNrbEQhwj6S\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-j3fo-ofdnwunrmpgjrfnvas90k@cobra-movies-torrent-2022.iam.gserviceaccount.com",
+  "client_id": "100593756784019402168",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-j3fo-ofdnwunrmpgjrfnvas90k%40cobra-movies-torrent-2022.iam.gserviceaccount.com"
+}
